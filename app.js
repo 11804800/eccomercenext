@@ -7,7 +7,9 @@ var cors=require('cors');
 var passport=require('passport');
 var mongoose= require('mongoose');
 
-const connect=mongoose.connect('mongodb://127.0.0.1:27017/Ecommerce',{
+
+const DB='mongodb+srv://root:root@cluster0.g9gqqdk.mongodb.net/?retryWrites=true&w=majority'
+const connect=mongoose.connect(DB,{
   useCreateIndex:true,
   useNewUrlParser:true,
   useUnifiedTopology:true
@@ -26,6 +28,7 @@ var planRouter=require('./routes/PlanRouter');
 var UserDataRouter=require('./routes/UserDataRouter');
 var tempRouter=require("./routes/temp");
 var commentRouter=require('./routes/commentRouter');
+const { Db } = require('mongodb');
 var app = express();
 
 app.use(passport.initialize());
