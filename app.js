@@ -6,10 +6,9 @@ var logger = require('morgan');
 var cors=require('cors');
 var passport=require('passport');
 var mongoose= require('mongoose');
+require('dotenv').config();
 
-
-const DB='mongodb+srv://root:root@cluster0.g9gqqdk.mongodb.net/?retryWrites=true&w=majority'
-const connect=mongoose.connect(DB,{
+const connect=mongoose.connect(process.env.MONGODB_URl,{
   useCreateIndex:true,
   useNewUrlParser:true,
   useUnifiedTopology:true
@@ -28,7 +27,6 @@ var planRouter=require('./routes/PlanRouter');
 var UserDataRouter=require('./routes/UserDataRouter');
 var tempRouter=require("./routes/temp");
 var commentRouter=require('./routes/commentRouter');
-const { Db } = require('mongodb');
 var app = express();
 
 app.use(passport.initialize());
