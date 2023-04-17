@@ -8,7 +8,7 @@ var passport=require('passport');
 var mongoose= require('mongoose');
 require('dotenv').config();
 
-const connect=mongoose.connect(process.env.MONGODB_URl,{
+const connect=mongoose.connect('mongodb+srv://root:root@cluster0.g9gqqdk.mongodb.net/?retryWrites=true&w=majority',{
   useCreateIndex:true,
   useNewUrlParser:true,
   useUnifiedTopology:true
