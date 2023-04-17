@@ -1,0 +1,1141 @@
+[
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf1cf4789c032c8a5c7be",
+        "name": "Capellini",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Capellini.jpeg",
+        "label": "Hot",
+        "price": 9,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63faf0724789c032c8a5c7ba",
+        "name": "Apple & Walnut Chicken Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Apple_walnut_chicken_salad.jpg",
+        "label": "Hot",
+        "price": 12,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Desert",
+            "Menucategory": "Desert",
+            "Foodcategory": "Milk"
+        },
+        "featured": false,
+        "_id": "63faf0d94789c032c8a5c7bc",
+        "name": "Banana Pudding",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Banana_Pudding.jpeg",
+        "label": "NEW",
+        "price": 12,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Milk"
+        },
+        "featured": true,
+        "_id": "63faf2164789c032c8a5c7bf",
+        "name": "Cappuccino",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Cappuccino.jpeg",
+        "label": "NEW",
+        "price": 4,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Wrap",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63faf1ba4789c032c8a5c7bd",
+        "name": "Buffalo Chicken Wrap",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Buffalo_chicken_wrap.jpeg",
+        "label": "Hot",
+        "price": 9,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Bowl",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": true,
+        "_id": "63faf3ba4789c032c8a5c7c3",
+        "name": "Chicken Burritto Bowl",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Chicken_Burritto_bowl.jpeg",
+        "label": "NEW",
+        "price": 15,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": true,
+        "_id": "63faf37c4789c032c8a5c7c2",
+        "name": "Chicken and Bacon Pizza with Barbecue Sauce",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Chicken_and_bacon_pizza_with_barbecue.jpeg",
+        "label": "Hot",
+        "price": 15,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Wrap",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63faf4004789c032c8a5c7c4",
+        "name": "Chicken Burritto Wrap",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Chicken_Burrtto.jpeg",
+        "label": "NEW",
+        "price": 15,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Desert",
+            "Menucategory": "Desert",
+            "Foodcategory": "Milk"
+        },
+        "featured": false,
+        "_id": "63faf27b4789c032c8a5c7c0",
+        "name": "BlueBerry Cheese Cake",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Blueberry_cheesecake.jpeg",
+        "label": "Hot",
+        "price": 4,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Desert",
+            "Menucategory": "Breakfast",
+            "Foodcategory": "Milk"
+        },
+        "featured": false,
+        "_id": "63faf5404789c032c8a5c7c6",
+        "name": "Chocolate Browines",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Chocolate_brownies.jpeg",
+        "label": "Hot",
+        "price": 2,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Breakfast",
+            "Foodcategory": "Milk"
+        },
+        "featured": false,
+        "_id": "63faf5704789c032c8a5c7c7",
+        "name": "Chocolate Topped Coffee",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Chocolate_topped_coffee.jpeg",
+        "label": "Hot",
+        "price": 6,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Lemon"
+        },
+        "featured": false,
+        "_id": "63faf5a44789c032c8a5c7c8",
+        "name": "Cocojito",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Cocojito.jpg",
+        "label": "COLD",
+        "price": 6,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf60f4789c032c8a5c7c9",
+        "name": "Chopped Greek Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Chopped_greek_salad.jpg",
+        "label": "NEW",
+        "price": 18,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Milk"
+        },
+        "featured": false,
+        "_id": "63faf6c04789c032c8a5c7cb",
+        "name": "Coffee",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Coffee.jpeg",
+        "label": "HOT",
+        "price": 8,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf6f64789c032c8a5c7cc",
+        "name": "Creamy Pesto Penny Pasta",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Creamy_pesto_penny_pasta.jpeg",
+        "label": "HOT",
+        "price": 8,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Milk"
+        },
+        "featured": false,
+        "_id": "63faf72e4789c032c8a5c7cd",
+        "name": "Espresso",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Espresso_Coffee.jpeg",
+        "label": "HOT",
+        "price": 8,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf8024789c032c8a5c7d1",
+        "name": "Fusilli",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Fusilli.jpeg",
+        "label": "NEW",
+        "price": 13,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf7dd4789c032c8a5c7d0",
+        "name": "Fettuccine",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Fettuccine.jpeg",
+        "label": "Italian",
+        "price": 13,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Wrap",
+            "Menucategory": "Breakfast",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63faf45e4789c032c8a5c7c5",
+        "name": "Chicken Tamato Pesto Panini Sandwich",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Chicken_Tomato_pesto_panini.jpeg",
+        "label": "NEW",
+        "price": 5,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.623Z",
+        "createdAt": "2023-03-20T06:04:52.623Z"
+    },
+    {
+        "category": {
+            "subCategory": "Wrap",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf77c4789c032c8a5c7ce",
+        "name": "Fafafel Hummus and Lavash",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/1.jpeg",
+        "label": "HOT",
+        "price": 18,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf91b4789c032c8a5c7d6",
+        "name": "Ravioli",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Ravioli.jpeg",
+        "label": "NEW",
+        "price": 11,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf8f44789c032c8a5c7d5",
+        "name": "Risotto Pizza",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Risotto_pizza.jpeg",
+        "label": "NEW",
+        "price": 11,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63faf8434789c032c8a5c7d2",
+        "name": "Fresh Pesto Chicken Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/fresh_pesto_chicken_salad.jpeg",
+        "label": "NEW",
+        "price": 23,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Milk"
+        },
+        "featured": false,
+        "_id": "63faf8874789c032c8a5c7d3",
+        "name": "Tea",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Tea.jpg",
+        "label": "NEW",
+        "price": 3,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Lemon"
+        },
+        "featured": false,
+        "_id": "63faf6984789c032c8a5c7ca",
+        "name": "CocoNut Mojito Pitcher",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Coconut_mojito_pitcher.jpg",
+        "label": "NEW",
+        "price": 8,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fafa534789c032c8a5c7db",
+        "name": "margherita Pizza",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Margherita_pizza.jpeg",
+        "label": "NEW",
+        "price": 12,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf94f4789c032c8a5c7d7",
+        "name": "Spaghetti",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Spaghetti.jpeg",
+        "label": "Itatian",
+        "price": 11,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fafa1d4789c032c8a5c7da",
+        "name": "Linguine",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Linguine.jpeg",
+        "label": "NEW",
+        "price": 18,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Lemon"
+        },
+        "featured": false,
+        "_id": "63fafabc4789c032c8a5c7dc",
+        "name": "Mojito Cocktail With Lime And Mint",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/2.jpeg",
+        "label": "COLD",
+        "price": 9,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fafc304789c032c8a5c7e0",
+        "name": "Lemon Spinch Chicken Caeser Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Lemon_spinch.jpg",
+        "label": "NEW",
+        "price": 30,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf7bb4789c032c8a5c7cf",
+        "name": "FaeFalle",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Farfalle.jpeg",
+        "label": "Italian",
+        "price": 13,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63fba2a1cc55161a8857a78c",
+        "name": "Pasta With Chicken Meat and Vegetables",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/pasta_with_chicken_meat_and_vegetables.jpeg",
+        "label": "HOT",
+        "price": 30,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Lemon"
+        },
+        "featured": false,
+        "_id": "63fafbe24789c032c8a5c7df",
+        "name": "Panna Cotta With Berries",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Panna_cotta_with_berries.jpeg",
+        "label": "NEW",
+        "price": 13,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Desert",
+            "Menucategory": "Desert",
+            "Foodcategory": "Milk"
+        },
+        "featured": true,
+        "_id": "63faf99b4789c032c8a5c7d8",
+        "name": "Ras-Gulla",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Rasgulla.jpg",
+        "label": "Indian",
+        "price": 6,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Wrap",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63fba395cc55161a8857a790",
+        "name": "Pesto Chicken Wrap",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/pesto_chicken_wrap.jpeg",
+        "label": "HOT",
+        "price": 10,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Lemon"
+        },
+        "featured": false,
+        "_id": "63fba3e7cc55161a8857a791",
+        "name": "Raspberry Mojito",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Raspberry_mojito.jpg",
+        "label": "COLD",
+        "price": 6,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63faf8b84789c032c8a5c7d4",
+        "name": "Risotto",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Risotto.jpeg",
+        "label": "NEW",
+        "price": 11,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba35dcc55161a8857a78f",
+        "name": "Pepperoni Pizza",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Pepperoni_pizza.jpeg",
+        "label": "HOT",
+        "price": 10,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fafb174789c032c8a5c7dd",
+        "name": "Mozzarella Cheese Pizza",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Mozzarella_Cheese_Pizza.jpeg",
+        "label": "HOT",
+        "price": 10,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba4fccc55161a8857a795",
+        "name": "Salmon Vegetable Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Salmon_vegetable_salad.jpg",
+        "label": "HOT NEW",
+        "price": 26,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63fba524cc55161a8857a796",
+        "name": "Shrimp Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Shrimp_salad.jpeg",
+        "label": "HOT NEW",
+        "price": 26,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba4bbcc55161a8857a794",
+        "name": "Salmon SuperFood Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/salmon_superfood_salad.jpg",
+        "label": "NEW",
+        "price": 26,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Desert",
+            "Menucategory": "Desert",
+            "Foodcategory": "Milk"
+        },
+        "featured": false,
+        "_id": "63faf9ce4789c032c8a5c7d9",
+        "name": "Gulab Jamun",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Indian_gulab_jamun.jpeg",
+        "label": "Indian",
+        "price": 7,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Breakfast",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba6a1cc55161a8857a79a",
+        "name": "Tomato Pizza",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Tomato_Pizza.jpeg",
+        "label": "NEW",
+        "price": 16,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba2dacc55161a8857a78d",
+        "name": "Penne Alla Vodka",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Penne_alla_vodka.jpeg",
+        "label": "HOT",
+        "price": 20,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Desert",
+            "Menucategory": "Desert",
+            "Foodcategory": "Milk"
+        },
+        "featured": true,
+        "_id": "63fba6f5cc55161a8857a79b",
+        "name": "English Desert Eton Mess",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Eton_mess.jpeg",
+        "label": "NEW",
+        "price": 11,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Desert",
+            "Menucategory": "Desert",
+            "Foodcategory": "Milk"
+        },
+        "featured": true,
+        "_id": "63fba66ccc55161a8857a799",
+        "name": "TiraMisu Cake",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Tiramisu_cake.jpeg",
+        "label": "NEW",
+        "price": 16,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Desert",
+            "Menucategory": "Desert",
+            "Foodcategory": "Milk"
+        },
+        "featured": true,
+        "_id": "63fba425cc55161a8857a792",
+        "name": "Red Heart Cake",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Red_heart_cake.jpeg",
+        "label": "Valentine",
+        "price": 6,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63fafb844789c032c8a5c7de",
+        "name": "Pan Fried Chicken Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/pan_fried_chicken_salad.jpg",
+        "label": "HOT",
+        "price": 13,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba93bcc55161a8857a7a0",
+        "name": "Italian Risotto Pasta",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Italian_Risotto_pasta.jpeg",
+        "label": "HOT",
+        "price": 7,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": true,
+        "_id": "63fba90bcc55161a8857a79f",
+        "name": "Italian Pizza",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Italian_Pizza.jpeg",
+        "label": "HOT",
+        "price": 7,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Breakfast",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba8d9cc55161a8857a79e",
+        "name": "Green Goddess Crob Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/4.jpeg",
+        "label": "HOT",
+        "price": 27,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba5a6cc55161a8857a797",
+        "name": "Splitza Signature Pizza",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Splitza_Signature.jpg",
+        "label": "NEW",
+        "price": 16,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Wrap",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63fba9c8cc55161a8857a7a3",
+        "name": "Grilled Chicken Pesto Panini Wrap",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/7.jpeg",
+        "label": "HOT",
+        "price": 8,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63fba318cc55161a8857a78e",
+        "name": "Penne Pasta With Chicken",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/penne_pasta_with_chicken.jpeg",
+        "label": "HOT",
+        "price": 20,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.624Z",
+        "createdAt": "2023-03-20T06:04:52.624Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Lemon"
+        },
+        "featured": false,
+        "_id": "63fba773cc55161a8857a79c",
+        "name": "Vodka RaspBerry Mojito",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Vodka_raspberry_mojito.jpg",
+        "label": "HOT",
+        "price": 21,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "63fba4a0cc55161a8857a793",
+        "name": "Salmon Caeser Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/salmon_caeser_salad.jpg",
+        "label": "NEW",
+        "price": 26,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63fba969cc55161a8857a7a1",
+        "name": "Green Pesto Chicken Pasta",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/5.jpeg",
+        "label": "HOT",
+        "price": 7,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Drink",
+            "Menucategory": "Drink",
+            "Foodcategory": "Lemon"
+        },
+        "featured": false,
+        "_id": "63fba631cc55161a8857a798",
+        "name": "StrawBerry Mojito",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Strawberry_mojito.jpg",
+        "label": "NEW",
+        "price": 16,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Breakfast",
+            "Foodcategory": "Veg"
+        },
+        "featured": true,
+        "_id": "63fba835cc55161a8857a79d",
+        "name": "Gnoochi",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Gnoochi.jpeg",
+        "label": "HOT",
+        "price": 21,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Pizza",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "63fba99ecc55161a8857a7a2",
+        "name": "Grilled Chicken Pepper Roasted Pizza",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/6.jpeg",
+        "label": "HOT",
+        "price": 8,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:04:52.625Z",
+        "createdAt": "2023-03-20T06:04:52.625Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": true,
+        "_id": "6417faba109c633b24404a46",
+        "name": "Chicken and Egg Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Healthy.png",
+        "label": "HOT",
+        "price": 23,
+        "createdAt": "2023-03-20T06:18:34.284Z",
+        "updatedAt": "2023-03-30T15:56:43.929Z",
+        "__v": 0
+    },
+    {
+        "category": {
+            "subCategory": "Pasta",
+            "Menucategory": "Dinner",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "6417fb13109c633b24404a47",
+        "name": "Chowmin",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Chowmin.png",
+        "label": "HOT",
+        "price": 7,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:20:03.159Z",
+        "createdAt": "2023-03-20T06:20:03.159Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Breakfast",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "6417fb52109c633b24404a49",
+        "name": "Healthy Daily Snack",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Home.png",
+        "label": "New",
+        "price": 7,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:21:06.465Z",
+        "createdAt": "2023-03-20T06:21:06.465Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "6417fb95109c633b24404a4a",
+        "name": "Pure Veg Green Vegetable Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Lemon_spinch.png",
+        "label": "HOT",
+        "price": 8,
+        "__v": 0,
+        "updatedAt": "2023-03-20T06:22:13.972Z",
+        "createdAt": "2023-03-20T06:22:13.972Z"
+    },
+    {
+        "category": {
+            "subCategory": "Salad",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Veg"
+        },
+        "featured": false,
+        "_id": "6417fba1109c633b24404a4b",
+        "name": "Pure Veg Salad",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Veg_salad.png",
+        "label": "HOT",
+        "price": 8,
+        "createdAt": "2023-03-20T06:22:25.814Z",
+        "updatedAt": "2023-03-20T06:22:25.814Z",
+        "__v": 0
+    },
+    {
+        "category": {
+            "subCategory": "Wrap",
+            "Menucategory": "Lunch",
+            "Foodcategory": "Non-Veg"
+        },
+        "featured": false,
+        "_id": "6417fba8109c633b24404a4c",
+        "name": "Shripm Wrap",
+        "description": "Waldorf chicken salad with rotisserie chicken, celery, grapes, honeycrisp apples and walnuts tossed in a creamy yogurt dressing.",
+        "image": "images/Veg_wrap.png",
+        "label": "HOT",
+        "price": 8,
+        "createdAt": "2023-03-20T06:22:32.450Z",
+        "updatedAt": "2023-03-20T06:22:32.450Z",
+        "__v": 0
+    }
+]
